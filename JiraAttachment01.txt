@@ -1,0 +1,3 @@
+Hello
+This attachment is for JIRA.
+This is added via Rest Assured.
